@@ -1,4 +1,7 @@
 customtkinter
 groq
+openai
+anthropic
+google-generativeai
 psutil
 pyinstaller
