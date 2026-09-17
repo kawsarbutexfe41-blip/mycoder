@@ -1,0 +1,4 @@
+customtkinter
+groq
+psutil
+pyinstaller
